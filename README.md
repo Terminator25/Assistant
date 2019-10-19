@@ -10,7 +10,7 @@ Various libraries have to be installed, namely :
 5.  smtplib
 
 Speaks in a voice that is currently installed on your PC.
-Can be changed by simply changing the voice ID. To see all the voices present in your computer , print voices in the script.
+Can be changed by simply changing the voice ID. To see all the voices present in your computer , print voices in the script or check narrator settings on Windows by pressing "Ctrl + Win Logo Keys + N".
 Has certain features, such as :
 1.  Can search wikipedia automatically and give the correct information present there.
 2.  Greet you according to the time.
